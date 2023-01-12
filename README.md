@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on... Wait i'm looking for a job. 😅
+- 🔭 I’m currently working on... Wait, i'm looking for a job. 😅
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Frontend Projects
 - 🤔 I’m looking for help with my first work opportunity 
