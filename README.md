@@ -1,5 +1,7 @@
 # Hello, welcome to my Github ⚡
-### Olá! Meu nome é Jordan Deodato, sou desenvolvedor PHP/Laravel. Venho sempre procurando evoluir como pessoa e como programador, buscando sempre aperfeiçoar meu código. No momento meu foco é Backend, na construção de APIs.
+### Olá! Meu nome é Jordan Deodato, sou desenvolvedor PHP/Laravel. 
+### Atuo há quase 2 anos como desenvolvedor Backend, desenvolvendo APIs e outras coisas a mais.
+### Amo estudar e estou em constante aprendizado, gosto de aprender coisas novas e boas práticas.
 > Aqui você irá acompanhar a minha evolução como dev. 👋
 
 
