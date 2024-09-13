@@ -1,5 +1,5 @@
 # Hello, welcome to my Github ⚡
-### Olá! Meu nome é Jordan Deodato, sou formado em Educação Física e estou em transição de carreira para a área da tecnologia. Atualmente estou cursando Sistemas para Internet (UNIPE) e estou buscando me capacitar como Desenvolvedor Back-end.
+### Olá! Meu nome é Jordan Deodato, sou desenvolvedor PHP/Laravel. Venho sempre procurando evoluir como pessoa e como programador, buscando sempre aperfeiçoar meu código. No momento meu foco é Backend, na construção de APIs.
 > Aqui você irá acompanhar a minha evolução como dev. 👋
 
 
